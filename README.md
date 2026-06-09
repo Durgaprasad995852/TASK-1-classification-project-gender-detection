@@ -36,12 +36,12 @@ python train_model.py
 Predict gender:
 
 ```bash
-python predict_gender.py Dhille
+python predict_gender.py Prasad
 ```
 ## output images
-<img width="1920" height="1346" alt="image" src="https://github.com/user-attachments/assets/f2974385-86cf-4e2a-a908-a83c5b586a3d" />
-<img width="1920" height="2662" alt="image" src="https://github.com/user-attachments/assets/9e6a983a-c487-4803-97c5-8bf2bb23428c" />
-<img width="1920" height="1326" alt="image" src="https://github.com/user-attachments/assets/f35d5d2a-04fb-44f0-8b41-6baa7fdf88cb" />
+<img width="1920" height="1216" alt="image" src="https://github.com/user-attachments/assets/d8f70c20-cb70-476b-b7e8-49f007f70673" />
+<img width="1920" height="2235" alt="image" src="https://github.com/user-attachments/assets/5ecea2eb-41ce-4d45-8141-380952d04817" />
+<img width="1920" height="1112" alt="image" src="https://github.com/user-attachments/assets/a0ec3e77-b8ea-4d77-b44a-7379a718fbd4" />
 
 
 
